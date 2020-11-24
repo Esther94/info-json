@@ -3,7 +3,7 @@ This assignment is about practice on how to use json and to fetch dada.
 
 ## 
 # Image
-![welcome interface.](asset/images/jsonassignment.PNG) "This is the outlook")
+![welcome interface.](asset/images/json.PNG) "This is the outlook")
 
 # Built With
 * HTML
@@ -28,7 +28,7 @@ This assignment is about practice on how to use json and to fetch dada.
 * https://twitter.com/hub_mic
 * https://www.linkedin.com/company/michub/
 
-# Live Demo ()
+# Live Demo (https://raw.githack.com/Esther94/info-json/main/index.html)
 
 # 🤝 Contributions
 * This project is open to your comments and contributions.
