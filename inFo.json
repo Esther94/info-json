@@ -1,0 +1,63 @@
+  
+[
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Love",
+      "body": "God is love"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Life",
+      "body": "The life we live is a precious gift from God"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "Nature",
+      "body": "nature is beauty"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "Smiles",
+      "body": "A lovely smile can take away pain, it can change ones mood"
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "Hate",
+      "body": "it can push you to do what you don't want to do, dried and kills slowly"
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "title": "Obim",
+      "body": "my heart beat"
+    },
+    {
+      "userId": 1,
+      "id": 7,
+      "title": "Kindness",
+      "body": "a little kindness shown can be a great blessing for a life time "
+    },
+    {
+      "userId": 1,
+      "id": 8,
+      "title": "Truth",
+      "body": "truth always wins"
+    },
+    {
+      "userId": 1,
+      "id": 9,
+      "title": "Be You",
+      "body": "be yourself live your life for yourself and not to please others"
+    },
+    {
+      "userId": 1,
+      "id": 10,
+      "title": "Change",
+      "body": "change is constant, be the change you want to see"
+    }
+  ]
