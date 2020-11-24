@@ -1,6 +1,4 @@
 # info.json
-creating json folder
-# info.json
 This assignment is about practice on how to use json and to fetch dada.
 
 ## 
